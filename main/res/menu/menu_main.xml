@@ -1,0 +1,34 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.emboxs.bluetoothserial.MainActivity">
+
+    <item
+        android:id="@+id/action_settings"
+        android:title="how to ?"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/save"
+        android:title="Save data"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/about"
+        android:title="about"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/bt_connect"
+        android:title="@string/next"
+        android:orderInCategory="200"
+        android:icon="@drawable/bt"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/bt_disconnect"
+        android:title="@string/next"
+        android:orderInCategory="200"
+        android:icon="@drawable/bt_dc"
+        app:showAsAction="always"/>
+</menu>
