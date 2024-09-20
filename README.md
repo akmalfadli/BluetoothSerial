@@ -13,5 +13,3 @@ Untuk mengimport source code diatas ikuti langkah berikut:
 8. Extrak project zip yang sudah didownload dari GitHub dan rename menjadi "src" kemudian copy file yang sudah direname ke direktori app project Android Studio yang sudah dibuat tadi *replace file "src" yang ada didalam projcet Android studio  
 9. Buka kembali Android Studio untuk mengedit program yang sudah diimport
 
-http://emboxs.wordpress.com
-Twitter: @emboxs
